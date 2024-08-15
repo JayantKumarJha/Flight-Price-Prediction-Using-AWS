@@ -1,0 +1,1 @@
+This is a complete end to end project on Flight price prediction using AWS Sagemaker. The project work flow is such that we first begin with the data preprocessing in the first notebook, then we do Exploratory Data Analysis, Feature Engineering and then Model building in the last. A separate Notebook has been made for each of these steps along with the data used.
